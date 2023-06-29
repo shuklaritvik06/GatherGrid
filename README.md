@@ -1,5 +1,7 @@
 # GatherGrid React Native App
 
+![conf--banner](https://github.com/shuklaritvik06/GatherGrid/assets/72812470/6a7c77e7-d586-4abc-865f-13b963b9e1fa)
+
 GatherGrid is a powerful React Native mobile application designed to revolutionize the way people connect and collaborate during meetings. With a sleek and intuitive user interface, GatherGrid offers a seamless experience for planning, organizing, and conducting meetings efficiently.
 
 Features
